@@ -1,6 +1,11 @@
 # AplicativoPETMEET
 Aplicativo App de rede social e rastreio dedicado ao publico pet onde é possível tutores encontrarem novos amigos que também amam animais como também rastrear seu pet caso algum fuja de suas áreas.
 
+### Software utilizados:
+<p align="left">
+<a href=target="blank"><img align="center" src="https://github.com/Lucas-Quandt/AplicativoPETMEET/assets/103226578/4247b7b0-95ee-4152-b1a4-342e369392a9"alt="" height="60" width="120"/a> 
+</p>
+
 
 # Imagens APP PETMEET
 ## Tela Inicial:
